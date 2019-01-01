@@ -1,0 +1,28 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    disabledPackages: [
+      "autocomplete-paths"
+      "rainbow-tree"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontFamily: "Dank Mono"
+    fontSize: 17
+    scrollPastEnd: true
+    showLineNumbers: false
+    softTabs: false
+    softWrap: true
+  "exception-reporting":
+    userId: "ff26a91b-7a0f-442f-bb67-1e3ac881f968"
+  "linter-ui-default":
+    panelHeight: 81
+  "tree-view": {}
+  "vim-mode-plus": {}
+  welcome:
+    showOnStartup: false
