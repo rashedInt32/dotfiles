@@ -1,0 +1,99 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.tabSize": 2,
+  "editor.tabCompletion": "on",
+  "editor.fontSize": 20,
+  "editor.overviewRulerBorder": false,
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "Dank Mono",
+  "editor.cursorStyle": "line",
+  "editor.formatOnSave": false,
+  "editor.trimAutoWhitespace": false,
+  "editor.lineNumbers": "off",
+  "editor.minimap.enabled": false,
+  "workbench.sideBar.location": "right",
+  "editor.wordWrap": "on",
+  "editor.lineHeight": 29,
+  "editor.glyphMargin": false,
+  "editor.renderLineHighlight": "none",
+  "editor.renderIndentGuides": false,
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "workbench.editor.enablePreview": false,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {"vue-html": "html",
+    "javascript": "javascriptreact"},
+  "explorer.openEditors.visible": 0,
+  "pasteAndIndent.selectAfter": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "vim.leader": ",",
+  "vim.normalModeKeyBindingsNonRecursive": [{
+      "before": [
+        "<leader>",
+        "w"
+      ],
+      "after": [
+        ":",
+        "w",
+        "!",
+        "<cr>"
+      ]
+    },
+    {
+      "before": [
+        "E"
+      ],
+      "after": [
+        "$"
+      ]
+    },
+    {
+      "before": [
+        "B"
+      ],
+      "after": [
+        "^"
+      ]
+    },
+    {
+      "before": [
+        "j"
+      ],
+      "after": [
+        "g",
+        "j"
+      ]
+    },
+    {
+      "before": [
+        "k"
+      ],
+      "after": [
+        "g",
+        "k"
+      ]
+    },
+    {
+      "before": [
+        ";"
+      ],
+      "after": [
+        ":"
+      ]
+    }
+  ],
+  "vim.statusBarColorControl": false,
+  "vim.easymotion": true,
+  "editor.letterSpacing": 0.2,
+  "editor.renderWhitespace": "none",
+  "breadcrumbs.enabled": false,
+  "editor.formatOnType": true,
+  "workbench.fontAliasing": "antialiased",
+  "terminal.integrated.fontSize": 20,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0,
+  "extensions.autoUpdate": false,
+  "explorer.confirmDelete": false
+}
