@@ -1,0 +1,31 @@
+snippet vbase "vue base template"
+<template>
+	<div>
+
+	</div>
+</template>
+
+<script>
+	export default {
+
+	};
+</script>
+
+<style scoped>
+
+</style>
+endsnippet
+
+snippet data "Data block"
+data: () => ({
+	$1
+}),
+endsnippet
+
+snippet vum "vue import"
+import $1 from '@/components/$2'
+endsnippet
+
+snippet com "components"
+components: { 'app-$1': $2}
+endsnippet

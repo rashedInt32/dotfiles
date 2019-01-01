@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Applications/MAMP/htdocs/test'
+let g:netrw_dirhist_2='/Applications/MAMP/htdocs/blogu-html/less'
+let g:netrw_dirhist_3='/Users/imamulparvez'
+let g:netrw_dirhist_4='/Users/imamulparvez/.vim'
+let g:netrw_dirhist_5='/Users/imamulparvez/.vim/Trashed-Bundles'
+let g:netrw_dirhist_6='/Users/imamulparvez/.vim/Trashed-Bundles/Atom'
+let g:netrw_dirhist_7='/Users/imamulparvez/.vim/Trashed-Bundles/Atom/colors'

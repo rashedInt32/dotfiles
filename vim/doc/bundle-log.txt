@@ -1,0 +1,113 @@
+*bundle-log.txt*                   Bundle Install Log
+
+
+Logs bundle install activity. Also see the list of installed |bundles|.
+
+Sun Feb 28 14:47:19 BDT 2016 by vim-update-bundles 0.8
+ Add |vim-pathogen|             v2.4-3-g8c91196    https://github.com/tpope/vim-pathogen.git
+ Del |ack.vim|                  1.0.8-23-g923507c
+ Del |ag|                       c478f7973074f
+ Del |Atom|                     v1.1-5-gb07c601
+ Del |autoload|
+ Del |babel-vim-snippets|       ea669e25d15d4
+ Del |cabin-colorscheme|        35a91b781baeb
+ Del |command-t|                1.13
+ Del |conque|
+ Del |conque-term|              1f0b972696fac
+ Del |ctrlp.vim|                1.79-27-gb5d3fe6
+ Del |delimitMate|              2.7-25-gd24ad6b
+ Del |doc|
+ Del |editorconfig-vim|         v0.3.2-90-gd6fa8ef
+ Del |elm.vim|                  916842745a73c
+ Del |emmet-vim|                emmet-306-g610c2ea
+ Del |eva01.vim|                8bfcd51812edf
+ Del |FastFold|                 d2d82e3b97085
+ Del |fzf|                      0.11.0
+ Del |gitlink-vim|              c0c595e25f37c
+ Del |goyo.vim|                 1.6.0-16-g630f5d8
+ Del |gryffin|                  dee31e5b93e8e
+ Del |gundo.vim|                v2.5.0-2-g3975ac8
+ Del |hilal|                    9bdbaf3198f6f
+ Del |inori|                    bcb2dc6d3f50b
+ Del |itg_flat_vim|             3f56d061a59ea
+ Del |javascript-libraries-syntax.vim| v0.3.4-65-g0f99e49
+ Del |L9|                       1.1
+ Del |Lightning|                b0c91db69f0bc
+ Del |Liquid-Carbon|            1.1
+ Del |MatchTagAlways|           e59a8d1315343
+ Del |materialbox|              2061e4fcd9855
+ Del |neomru.vim|               8aa00e181bb76
+ Del |nerdcommenter|            2.2.2-139-g6549cfd
+ Del |nerdtree|                 4.2.0-234-gaf85499
+ Del |next-indentation|         cedaeb05f982b
+ Del |oceanic-next|             ffa12d3867520
+ Del |one-dark.vim|             e0455bc084dde
+ Del |plugin|
+ Del |pride.vim|                60f13126e7bee
+ Del |rainbow_parentheses.vim|  eb8baa5428bde
+ Del |sexy-railscasts-theme|    v1.0-3-gc0c590b
+ Del |Solarized|                1.0.0b1
+ Del |sourcerer.vim|            2cf42a4c1a07a
+ Del |Spacegray.vim|            v1.4-4-g1c10d0d
+ Del |sparkup|                  8eb335bb3ba1d
+ Del |subvim|                   241b6d1705978
+ Del |supertab|                 2.1-28-gc8bfece
+ Del |syntastic|                3.6.0-102-g56e19eb
+ Del |syntastic-react|          b5048cacd21cd
+ Del |syntax|
+ Del |tabular|                  60f25648814f0
+ Del |taglist.vim|              4.5
+ Del |tcomment_vim|             3.08-9-g8955e2e
+ Del |tern_for_vim|             0.5.0-21-ga26106b
+ Del |tlib_vim|                 1.20-1-g9734d8d
+ Del |ultisnips|                3.0-304-g53bf0db
+ Del |unite.vim|                ver.6.1-278-gdfdff3d
+ Del |vim-addon-completion|     021c449a5ce1c
+ Del |vim-addon-mw-utils|       0c5612fa31ee4
+ Del |vim-airline|              v0.7-108-g14d14cf
+ Del |vim-auto-save|            0.1.7
+ Del |vim-colors-solarized|     528a59f26d122
+ Del |vim-diminactive|          6f6790696859a
+ Del |vim-easymotion|           v2.1.1-9-ga21d447
+ Del |vim-elixir|               6e58b17f6bbf4
+ Del |vim-endwise|              v1.2-22-gf06abe3
+ Del |vim-es6|                  v2.1-1-g735b9f7
+ Del |vim-exchange|             9373a8471cd96
+ Del |vim-fugitive|             v2.2-10-g21b6dd7
+ Del |vim-fullscreen|           v0.1.1-4-ge1d73af
+ Del |vim-gotham|               6486e10a22003
+ Del |vim-hackernews|           v0.2-12-ga521a25
+ Del |vim-hybrid-material|      59050ec3f2ee8
+ Del |vim-interestingwords|     0.0.2-36-g09b5653
+ Del |vim-javascript|           v0.1.0-34-g1d8c267
+ Del |vim-javascript-syntax|    0.8.0-35-ge7b2c32
+ Del |vim-jsx|                  db329e121e281
+ Del |vim-less|                 bd34eba9b8b34
+ Del |vim-markdown|             2.0.0-56-gfdf7801
+ Del |vim-markmultiple|         125315a000d16
+ Del |vim-material-theme|       bbde47207b489
+ Del |vim-move|                 v1.3-4-gd87ac6a
+ Del |vim-multiple-cursors|     v2.2-149-g47c9e3f
+ Del |vim-over|                 0d99be7953f85
+ Del |vim-phoenix|              032f5f06cb80f
+ Del |vim-rails|                v5.2-41-g21ada3b
+ Del |vim-rename|               dcb8a4abe0d1a
+ Del |vim-ruby|                 vim7.4-84-g2322c36
+ Del |vim-sleuth|               v1.1-13-ga174627
+ Del |vim-snipmate|             v0.87-106-g7f91de3
+ Del |vim-snippets|             1.0.0-707-g732978a
+ Del |vim-startify|             v1.1-11-g8545f6f
+ Del |vim-surround|             v2.1-8-g2d05440
+ Del |vim-togglemouse|          1.0-2-g50ad10a
+ Del |vim-ultisnips-css|        v3.0.0-10-g042315f
+ Del |vim-vinegar|              a5f776c97c56c
+ Del |vim-visual-star-search|   0.2-24-gfa55818
+ Del |vim-vue|                  b25434a9812aa
+ Del |vimproc.vim|              ver.9.2-5-gee10f74
+ Del |vimshell.vim|             ver.9.2-332-g4943970
+ Del |Vundle.vim|               v0.10.2-18-gcfd3b2d
+ Del |vvue|                     13025962d8c44
+ Del |yajs.vim|                 1.5-19-g8e43a97
+ Del |YouCompleteMe|            2de2f0df8df2e
+   1 bundle added, 104 bundles removed
+
