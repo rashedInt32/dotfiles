@@ -2,12 +2,11 @@
 {
   "editor.tabSize": 2,
   "editor.tabCompletion": "on",
-  "editor.fontSize": 20,
+  "editor.fontSize": 19,
   "editor.overviewRulerBorder": false,
   "editor.scrollbar.verticalScrollbarSize": 0,
-  "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "material-icon-theme",
-  "editor.fontFamily": "Dank Mono",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.cursorStyle": "line",
   "editor.formatOnSave": false,
   "editor.trimAutoWhitespace": false,
@@ -15,7 +14,7 @@
   "editor.minimap.enabled": false,
   "workbench.sideBar.location": "right",
   "editor.wordWrap": "on",
-  "editor.lineHeight": 29,
+  "editor.lineHeight": 35,
   "editor.glyphMargin": false,
   "editor.renderLineHighlight": "none",
   "editor.renderIndentGuides": false,
@@ -23,13 +22,19 @@
   "editor.formatOnPaste": true,
   "workbench.editor.enablePreview": false,
   "emmet.triggerExpansionOnTab": true,
-  "emmet.includeLanguages": {"vue-html": "html",
-    "javascript": "javascriptreact"},
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascript": "javascriptreact",
+    "reason": "javascriptreact"
+  },
   "explorer.openEditors.visible": 0,
   "pasteAndIndent.selectAfter": true,
-  "workbench.startupEditor": "newUntitledFile",
+  "editor.matchBrackets": "never",
+  "workbench.startupEditor": "none",
+  "editor.renderControlCharacters": false,
   "vim.leader": ",",
-  "vim.normalModeKeyBindingsNonRecursive": [{
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
       "before": [
         "<leader>",
         "w"
@@ -66,15 +71,15 @@
         "j"
       ]
     },
-    {
-      "before": [
-        "k"
-      ],
-      "after": [
-        "g",
-        "k"
-      ]
-    },
+    // {
+    //   "before": [
+    //     "k"
+    //   ],
+    //   "after": [
+    //     "g",
+    //     "k"
+    //   ]
+    // },
     {
       "before": [
         ";"
@@ -86,14 +91,92 @@
   ],
   "vim.statusBarColorControl": false,
   "vim.easymotion": true,
-  "editor.letterSpacing": 0.2,
+  "vim.easymotionMarkerFontFamily": "JetBrains Mono",
+  "vim.easymotionMarkerFontSize": "19",
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  //"vim.vimrc.enable": true,
+  // "vim.vimrc.path": "/Users/imamulparvez/.vimrc",
+  "editor.letterSpacing": 0.7,
   "editor.renderWhitespace": "none",
   "breadcrumbs.enabled": false,
   "editor.formatOnType": true,
   "workbench.fontAliasing": "antialiased",
   "terminal.integrated.fontSize": 20,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "window.zoomLevel": 0,
   "extensions.autoUpdate": false,
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "sassFormat.indent": 2,
+  "advancedNewFile.exclude": {
+    "node_modules": true,
+    "node_modules_electron": true,
+    "dev": true,
+    "dist": true,
+    "lib": true,
+    "build": true,
+    ".vscode": true
+  },
+  "advancedNewFile.showInformationMessages": true,
+  "advancedNewFile.convenienceOptions": [
+    "last",
+    "current",
+    "root"
+  ],
+  "reason.diagnostics.tools": [
+    "merlin",
+    "bsb"
+  ],
+  "reason.codelens.enabled": true,
+  "[reason]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "jaredly.reason-vscode"
+  },
+  "[scss]": {
+    "editor.formatOnPaste": false,
+  },
+  "[css]": {
+    "editor.formatOnPaste": false,
+  },
+  "explorer.confirmDragAndDrop": false,
+  "editor.smoothScrolling": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "rust-client.channel": "stable",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "sync.autoUpload": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "typescriptreact"
+  ],
+  "workbench.editor.showTabs": true,
+  "workbench.colorTheme": "One Dark Pro",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "sync.gist": "9d40a112d74669b0dc6647a4b7279535",
+  "workbench.activityBar.visible": true,
+  "workbench.statusBar.visible": true,
+  "editor.quickSuggestionsDelay": 0,
+  "editor.occurrencesHighlight": false,
+  "vscode_custom_css.imports": [
+      "file:///Users/imamulparvez/.vscode/custom.css"
+  ],
+  "workbench.colorCustomizations": {
+      "scrollbar.shadow": "#272b34"
+  },
+  "newFile.expandBraces": true,
+  "window.zoomLevel": 0,
+  "files.associations": {
+  
+  }
 }
+
